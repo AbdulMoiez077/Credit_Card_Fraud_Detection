@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-End-to-end machine learning notebook for detecting fraudulent credit card transactions on a highly imbalanced dataset (0.17% fraud rate). Built as part of the **Live Pakistan — Machine Learning Internship, Week 2**.
+End-to-end machine learning notebook for detecting fraudulent credit card transactions on a highly imbalanced dataset (0.17% fraud rate).
 
 ## Problem
 
